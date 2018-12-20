@@ -1,0 +1,6 @@
+include cards.pyx
+include adc.pyx
+include cards.c
+include adc.c
+include README.md
+include LICENSE.md

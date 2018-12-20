@@ -1,0 +1,11 @@
+.idea
+venv
+.cache
+*.pyc
+*.so
+*.html
+build
+cython_debug
+venv-debug
+MANIFEST
+dist
