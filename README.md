@@ -29,7 +29,7 @@ python setup.py install
 or
 
 ```
-python setep.py build_ext --inplace
+python setup.py build_ext --inplace
 ```
 
 if you are using cython and do not wish to install the project to your python packages
